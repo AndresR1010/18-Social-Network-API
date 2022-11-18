@@ -2,7 +2,11 @@
 
 ## Description
 
-This project is a social network API built using a MongoDB database with the ability to create users, add friends, delete users, create posts called "thoughts" and react to them with comments called "reactions" as well as delete those posts and comments. View the following link to watch a demo video of the app working. [Demo Video](https://drive.google.com/file/d/1AgH2fw4gnSin2UAYFw-k_py7k6IwiuLt/view?usp=sharing)
+This project is a social network API built using a MongoDB database with the ability to create users, add friends, delete users, create posts called "thoughts" and react to them with comments called "reactions" as well as delete those posts and comments. View the following link to watch a demo video of the app working.
+
+## Usage
+
+[Walkthrough Video]()
 
 ## Installation
 
